@@ -1,0 +1,46 @@
+/* login in and sign up form */
+.container-form{
+    display: flex;
+    margin-top: 200px;
+}
+.l\&s_form{
+    padding: 30px;
+    border-style: ridge;
+    border-radius: 25px;
+    background-color:rgb(245, 247, 250);
+}
+.rs_input{
+    width: 220px;
+    border-radius: 3px;
+    border-color: black;
+    margin-bottom: 5px;
+}
+.rs_button{
+    display: flex;
+    margin: 15px auto;
+}
+.container-form .form-title{
+    padding-top: 5px;
+}
+/* post page*/
+.container_post_page{
+    width: 1000px;
+    margin: 80px auto;
+}
+.mb-3 h1{
+    text-align: center;
+}
+#word_limit{
+    padding-left: 83%;
+}
+#post_btn{
+    width:8%;
+    margin:auto 46% ;
+}
+#Input1{
+    font-size: 30px;
+}
+#Textarea1{
+    font-size: 20px;
+}
+
