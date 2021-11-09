@@ -23,7 +23,7 @@ if($resultCheck > 0){
         $thumb = $row['thumb_up'];
         echo"<div class='card' style='margin:auto 15% 10px 15%;'>
                 <div class='card-header'>
-                    <h4>$post_name $pid</h4>
+                    <h4>$post_name</h4>
                 </div>
                 <div class='card-body'>
                     <h5 class='card-title'>$post_title</h5>
